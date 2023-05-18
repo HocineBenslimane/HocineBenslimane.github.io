@@ -129,7 +129,7 @@
       <slot />
       <cursor-fx />
       <footer class="mb-5">
-        <p class="mb-1">&copy; 2022 Houcine Benslimane. All rights reserved.</p>
+        <p class="mb-1">&copy; 2023 Djawed Benslimane. All rights reserved.</p>
         <p class="text-sm">
           Built with
           <span>Love</span.
