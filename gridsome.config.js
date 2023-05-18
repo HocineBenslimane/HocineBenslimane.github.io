@@ -7,7 +7,7 @@
 const tailwindcss = require("tailwindcss");
 
 module.exports = {
-  siteName: "Houcine Benslimane Portfolio",
+  siteName: "Djawed Benslimane Portfolio",
   plugins: [],
   css: {
     loaderOptions: {
