@@ -269,7 +269,7 @@
           <h3 class="mt-12">Hello 👋 Welcome to my portfolio!</h3>
           <h4 class="text-3xl mt-2 md:mt-0 md:text-5xl">
             I'm
-            <span class="capitalize text-5xl xl:text-6xl font-black">Houcine Benslimane</span>
+            <span class="capitalize text-5xl xl:text-6xl font-black">Djawed Benslimane</span>
           </h4>
           <p class="mt-4 text-md md:text-1xl max-w-sm md:max-w-xl">
             Fullstack developer and a Designer from
@@ -435,7 +435,7 @@
           <div class="contact-info w-full flex flex-wrap lg:flex-no-wrap justify-around">
             <span class="text-sm w-1/2 mb-4">
               <mail-icon class="inline align-text-bottom"></mail-icon>
-              hocinebenslimanne@gmail.com
+              djawedbns@gmail.com
             </span>
             <span class="text-sm w-1/2 mb-4">
               <phone-icon class="inline align-text-bottom"></phone-icon>
