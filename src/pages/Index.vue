@@ -410,7 +410,7 @@
       <div id="courses" class="courses-section my-24 text-center">
         <h3 class="mb-6 text-3xl font-bold">
           I create videos on
-          <g-link to="https://www.youtube.com/c/algorithmCoding" data-cursor-hover>YouTube</g-link>
+          <g-link to="link" data-cursor-hover>YouTube</g-link>
         </h3>
         <p
           class="max-w-xl mx-auto text-sm md:text-md"
