@@ -34,9 +34,6 @@
             <g-link data-cursor-hover>
               <twitter-icon stroke-width="1.5" size="20" class="mx-2"></twitter-icon>
             </g-link>
-            <g-link data-cursor-hover>
-              <youtube-icon stroke-width="1.5" size="20" class="mx-2"></youtube-icon>
-            </g-link>
           </div>
         </div>
         <div class="hidden md:block">
