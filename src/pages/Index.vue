@@ -269,7 +269,7 @@
             <span class="capitalize text-5xl xl:text-6xl font-black"> Benslimane</span>
           </h4>
           <p class="mt-4 text-md md:text-1xl max-w-sm md:max-w-xl">
-            Fullstack developer and a Designer from
+            Fullstack developer & a Designer from
             <span class="relative">Algeria</span>,
             focused on creating
             <span class="middle-span relative">modern</span>
