@@ -5,7 +5,7 @@
       <kinesis-container id="home" class="relative">
         <Profile class="h-full w-1/3 md:w-1/6 mt-8 mx-auto" />
         <div>
-          <h1 class="text-3xl font-bold mt-2">Houcine Bensliimane</h1>
+          <h1 class="text-3xl font-bold mt-2">Houcine Benslimane</h1>
           <vue-typed-js
             :strings="[
               'FullStack Developer',
