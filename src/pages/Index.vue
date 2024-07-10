@@ -386,7 +386,7 @@
               <div class="ml-0 lg:ml-8 mt-4">
                 <h4 class="underline font-bold">Designe</h4>
                 <p class="mt-3 text-sm">
-                  I love spending time in makinge Logo, T-shirt designs & 3D Modeling using latest softwares such as
+                  I love spending time in makinge Logo, T-shirt designs & 3D Modeling using the latest softwares such as
                   <span>illustrator</span> &
                   <span>photoshop</span> &
                   <span>blender</span>.
