@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <h1>About us</h1>
-    <p>Fullstack developer and a Designer from Algeria, focused on creating modern web apps, passionate about Designe..</p>
+    <p>Fullstack developer and a Designer from Algeria focused on creating modern web-apps, passionate about Design..</p>
   </Layout>
 </template>
 
